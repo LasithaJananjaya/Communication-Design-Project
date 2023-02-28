@@ -20,6 +20,8 @@ Overall, an SDR project requires a combination of expertise in telecommunication
 
 
 
+
+
 USRP N210
 
 Great choice! The USRP N210 is a widely-used SDR platform that offers a range of benefits for SDR projects, including:
@@ -35,3 +37,16 @@ Open-source software: The USRP N210 is compatible with a range of open-source so
 When using the USRP N210 as hardware in our SDR project, we will need to ensure that we have the appropriate software tools and drivers installed. We will also need to consider the antenna design and any other additional hardware components that we may need, such as filters or amplifiers.
 
 Overall, the USRP N210 is a versatile and powerful SDR platform that can support a wide range of applications, and I'm excited to use it in our project!
+
+
+
+
+
+LEDs on the USRP
+
+LED A: transmitting
+LED B: MIMO cable link
+LED C: receiving
+LED D: firmware loaded
+LED E: reference lock
+LED F: CPLD loaded
