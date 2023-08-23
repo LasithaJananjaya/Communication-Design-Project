@@ -1,0 +1,9 @@
+20061222:
+1	Readfile function -- for support general modulation
+2	add GSMK modulation and demodulation
+
+need to update:
+should not processing the type conversion during socket receive, it should be done after socket recieve for improve receive speed
+
+20070208:
+1	revise the store_JPEG to store_DBPSK/DQPSK. Reason is we need other store event to deal with store_GMSK, which also store JPEG file.
